@@ -1,0 +1,34 @@
+# Composer dependencies
+/vendor/
+
+# Sensitive configuration
+config.php
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache and session files (if generated)
+cache/
+sessions/
+
+# Uploaded files (if any)
+uploads/
+user_uploads/
+
+# Miscellaneous
+*.swp
+*.swo
